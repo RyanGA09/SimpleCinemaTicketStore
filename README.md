@@ -1,12 +1,12 @@
-# College Task - Simple Cinema Ticket Store
+# 🎟️ College Task - Simple Cinema Ticket Store
 
-## Description
+## 📝 Description
 
 This is a Simple Cinema Ticket Shop as my assignment to study Web Programming in College in 2023. This project allows users to search for movie theaters they want to watch. This application helps users to search for movies they want to watch before buying tickets.
 
 Tech Stack: HTML, Assets(CSS, JS, IMAGE)
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository:
 
@@ -22,13 +22,13 @@ Tech Stack: HTML, Assets(CSS, JS, IMAGE)
 
 3. Open index.html in your web browser to view the portfolio
 
-## Usage
+## 🚀 Usage
 
 - Modify the index.html file to update your personal information and projects.
 - Customize the styles in styles.css to fit your preferences.
 - Add or update functionality in scripts.js as needed.
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to fork the repository and submit pull requests for improvements or bug fixes. Please ensure that your contributions adhere to the existing style and coding standards.
 
@@ -60,19 +60,19 @@ Open a pull request from your branch to the main branch of the original reposito
 
 **_By following these guidelines, you help maintain a clean and manageable project history._**
 
-## Contact
+## 📬 Contact
 
 For any questions or feedback, you can reach out to me via:
 
-<!-- - [Gmail](mailto:ryanrga01@gmail) -->
+- [Gmail](mailto:ryangadinga90@gmail)
 
 - [Linkedin](https://www.linkedin.com/in/ryan-gading-abdullah/)
 
-## Note
+## 🗒️ Note
 
 **Contributing Section**: Added instructions to create a new branch for changes instead of pushing directly to the `main` branch, to maintain a clean project history.
 
-## License
+## 📄 License
 
 Copyright &copy; 2023 Ryan Gading Abdullah. All rights reserved.
 
